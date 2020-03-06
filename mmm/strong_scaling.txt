@@ -1,0 +1,8 @@
+DESKTOP-97RPDOM
+cpu MHz		: 2501.000
+500 per dimension
+Strong Scaling
+1 4.059
+2 1.993
+4 1.156
+8 1.139

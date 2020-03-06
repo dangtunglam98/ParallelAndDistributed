@@ -1,0 +1,8 @@
+DESKTOP-97RPDOM
+cpu MHz		: 2501.000
+num_threads* 100 per dim
+Weak Scaling
+1 0.030
+2 0.121
+4 0.631
+8 5.425
